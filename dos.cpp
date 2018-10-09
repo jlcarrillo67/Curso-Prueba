@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	printf("Dos...);
+	int x=10;
+	printf("X = %d", x);
 }
 
